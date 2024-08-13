@@ -38,7 +38,7 @@ DocuAssist is an AI-powered chatbot designed to assist users with document-based
 1. **Clone the Repository:**
    - Clone the repository to your local machine:
      ```
-     git clone https://github.com/kanikaaN/DocuAssist
+     git clone https://github.com/harvinderr15/RelativityAI
      ```
 
 2. **Configuration:**
